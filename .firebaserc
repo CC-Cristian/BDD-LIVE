@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "bdd-live-d724a": {
+      "hosting": {
+        "app": [
+          "bdd-live-d724a"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "bdd-live-d724a"
+  }
+}
